@@ -6,11 +6,7 @@ In this project you will be provided with real world data which is related with 
 
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-img
-
 We are a data science team in thier offices and it our task to make the most sense of the data provided by the company
-
-img
 
 Let us Get Started!
 As you remember our task is to explore our Bank's Marketing campaign and create meaningful insights from the data
